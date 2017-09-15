@@ -6,4 +6,4 @@
 - Stylus
 
 -Description:
-  A bot that creates high score in an android game called stack.
+  A bot that scores highest in the android game called stack.
